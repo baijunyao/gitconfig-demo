@@ -1,0 +1,11 @@
+[user]
+    name = baijunyao
+    email = baijunyao@baijunyao.com
+[core]
+    excludesfile = ~/gitconfig/.gitignore_global
+[includeIf "gitdir:~/Sites/"]
+    path = ~/gitconfig/.gitconfig-individual
+[includeIf "gitdir:~/GitHub/"]
+    path = ~/gitconfig/.gitconfig-individual
+[includeIf "gitdir:~/Projects/"]
+    path = ~/gitconfig/.gitconfig-company
