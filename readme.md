@@ -1,13 +1,12 @@
 # Git Config
 
-## Installation
-
+## Features
 - Set user and email according to the directory
 - Ignore files globally
 
 ## Installation
 ```bash
-git clone git@gitee.com:baijunyao/gitconfig.git ~/gitconfig
+git clone git@github.com:baijunyao/gitconfig-demo.git ~/gitconfig
 ```
 
 ## Usage
