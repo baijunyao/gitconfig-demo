@@ -2,10 +2,10 @@
     name = baijunyao
     email = baijunyao@baijunyao.com
 [core]
-    excludesfile = ~/gitconfig/.gitignore_global
+    excludesfile = ~/Sites/gitconfig/.gitignore_global
 [includeIf "gitdir:~/Sites/"]
-    path = ~/gitconfig/.gitconfig-individual
+    path = ~/Sites/gitconfig/.gitconfig-individual
 [includeIf "gitdir:~/GitHub/"]
-    path = ~/gitconfig/.gitconfig-individual
+    path = ~/Sites/gitconfig/.gitconfig-individual
 [includeIf "gitdir:~/Projects/"]
-    path = ~/gitconfig/.gitconfig-company
+    path = ~/Sites/gitconfig/.gitconfig-company

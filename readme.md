@@ -6,14 +6,14 @@
 
 ## Installation
 ```bash
-git clone git@github.com:baijunyao/gitconfig-demo.git ~/gitconfig
+git clone git@github.com:baijunyao/gitconfig-demo.git ~/Sites/gitconfig
 ```
 
 ## Usage
 Add the following code to the ~/.gitconfig
 ```
 [include]
-    path = ~/gitconfig/.gitconfig
+    path = ~/Sites/gitconfig/.gitconfig
 ```
 
 ## Links
